@@ -24,5 +24,7 @@ This hands-on experience was designed to deepen understanding of network securit
 drag & drop screenshots here or use imgr and reference them using imgsrc
 
 Every screenshot shoudl have some text explaining what the screenshot is about.
+
 Example below.
+
 Ref 1: Network Diagram
